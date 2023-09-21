@@ -19,8 +19,8 @@ Upload index.html and assets folder to web browser. Assets folder contains style
 
 ## Links:
 
-- [Horiseon Webpage]()
-- [Repository]()
+- [Horiseon Webpage](https://lornaburns.github.io/refactor-horiseon-09/)
+- [Repository](https://github.com/lornaburns/refactor-horiseon-09)
 
 ## Use:
 
@@ -32,6 +32,6 @@ This webpage can be displayed on a desktop browser. It is not yet responsive to 
 
 ## Credits:
 
-- (w3schools) https://www.w3schools.com/html/html5_semantic_elements.asp
-- (freecodecamp) https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-- (Harvard) https://accessibility.huit.harvard.edu/describe-content-images
+- [w3schools] https://www.w3schools.com/html/html5_semantic_elements.asp
+- [freecodecamp] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+- [Harvard] https://accessibility.huit.harvard.edu/describe-content-images
