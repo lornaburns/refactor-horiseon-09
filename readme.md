@@ -1,44 +1,37 @@
-#Horiseon Webpage Refactor
+# Horiseon Webpage Refactor
+
 The main goal of this project was to refactor an existing webpage, improving accessibility and overall readability of the code.
 
-##Description
-An in-depth paragraph about your project and overview of use.
+## Description
 
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
+The following changes were made to complete this project:
 
-command to run if program contains helper info
-Authors
-Contributors names and contact info
+- The primary goal of this application was to improve accessibility for this webpage.
+- Alternate text was added for all images and icons.
+- Basic consolidation was also performed, reducing redundancies in the code.
+- Comments were made in the stylesheet to label categories as well as explain any changes made in that category.
+- Semantic elements were substituted for HTML elements to improve readability.
+- A descriptive title was provided.
 
-ex. Dominique Pizzie
-ex. @DomPizzie
+## Instructions:
 
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Upload index.html and assets folder to web browser. Assets folder contains stylesheet and images.
 
-Acknowledgments
-Inspiration, code snippets, etc.
+## Links:
 
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
+- [Horiseon Webpage]()
+- [Repository]()
+
+## Use:
+
+This webpage can be displayed on a desktop browser. It is not yet responsive to smaller screen sizes.
+
+## Image:
+
+<img src="https://raw.githubusercontent.com/lornaburns/coding-refactor-horiseon/8dcba901055d46484b015f96b26f578e73829e09/screenshot-horiseon.jpg" alt="Horiseon webpage" width="200"/>
+
+## Credits:
+
+- (w3schools) https://www.w3schools.com/html/html5_semantic_elements.asp
+- (freecodecamp) https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+- (Harvard) https://accessibility.huit.harvard.edu/describe-content-images
